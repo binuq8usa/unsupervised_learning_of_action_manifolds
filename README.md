@@ -5,7 +5,11 @@ This repository contains MATLAB code and routines to run the unsupervised learni
 
 2) Nair, Binu Muraleedharan. "Learning Latent Temporal Manifolds for Recognition and Prediction of Multiple Actions in Streaming Videos using Deep Networks." PhD diss., University of Dayton, 2015.(https://etd.ohiolink.edu/pg_10?0::NO:10:P10_ACCESSION_NUM:dayton1429532297)
 
-Also, this code was developed based on the available 'rbm' code on Geoffrey Hinton's webpage to train autoencoders on MNIST data. (http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html). 
+Also, this code was developed based on the available 'rbm' code on Geoffrey Hinton's webpage to train autoencoders on MNIST data. (http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html). The temporal learning using CRBM is based of an earlier version of the CRBM code to model motion styles by Graham Taylor. Here is his updated Git repository : https://github.com/gwtaylor/imCRBM. 
+
+Please also cite their relevant papers as well if using this work.
+
+Thanks.
 
 
 
