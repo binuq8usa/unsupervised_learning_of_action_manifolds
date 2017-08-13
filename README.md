@@ -5,5 +5,7 @@ This repository contains MATLAB code and routines to run the unsupervised learni
 
 2) Nair, Binu Muraleedharan. "Learning Latent Temporal Manifolds for Recognition and Prediction of Multiple Actions in Streaming Videos using Deep Networks." PhD diss., University of Dayton, 2015.(https://etd.ohiolink.edu/pg_10?0::NO:10:P10_ACCESSION_NUM:dayton1429532297)
 
+Also, this code was developed based on the available 'rbm' code on Geoffrey Hinton's webpage to train autoencoders on MNIST data. (http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html). 
+
 
 
